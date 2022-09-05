@@ -1,4 +1,2 @@
 Hi!
-More content here
-More content added
-Add more cool content
+A lot of cool new content
