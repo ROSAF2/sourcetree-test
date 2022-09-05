@@ -1,3 +1,4 @@
 Hi!
 More content here
-This should get stashed
+This content was removed
+More content added
