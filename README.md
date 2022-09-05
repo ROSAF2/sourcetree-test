@@ -1,4 +1,4 @@
 Hi!
 More content here
-This content was removed
 More content added
+Add more cool content
